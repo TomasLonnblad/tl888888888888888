@@ -140,7 +140,7 @@ export default function Page() {
         <img
           src="https://tomaslonnblad.github.io/2.jpg"
           alt="Img"
-          fill={true}
+      
           className="rounded-lg object-cover grayscale dark:brightness-20"
         />
       </AspectRatio>
